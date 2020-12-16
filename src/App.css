@@ -1,0 +1,32 @@
+body{
+  background-color: powderblue;
+  text-align: center;
+}
+img{
+  max-width: 100%;
+}
+.title{
+  color: brown;
+  text-transform: uppercase;
+  font-size: 50px;
+  text-shadow:  1px 1px;
+
+}
+.card{
+  margin-top: 80px;
+}
+.btn{
+  margin-top: 20px;
+}
+
+h4{
+  background-color: white;
+}
+
+.txt{
+  font-size: 40px;
+  margin-top: 50px;
+  color: blue;
+  text-transform: uppercase;
+  text-shadow: 2px 2px rgb(0,0,0);
+}
